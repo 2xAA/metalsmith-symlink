@@ -1,0 +1,24 @@
+{
+  "name": "metalsmith-symlink",
+  "version": "0.0.1",
+  "description": "Symlink plugin for MetalSmith",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "symlink",
+    "metalsmith"
+  ],
+  "author": "Sam Wray",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "debug": "^2.6.1",
+    "fs-symlink": "^1.2.1",
+    "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {
+    "metalsmith": "^2.3.0"
+  }
+}
