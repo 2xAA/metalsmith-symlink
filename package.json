@@ -11,7 +11,18 @@
     "metalsmith"
   ],
   "author": "Sam Wray",
-  "license": "ISC",
+  "license": "MIT",
+  "contributors": [{
+    "name": "Sam Wray",
+    "email": "sam@wray.pro"
+  }],
+  "bugs": {
+    "url": "https://github.com/2xAA/metalsmith-symlink/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/2xAA/metalsmith-symlink"
+  },
   "dependencies": {
     "bluebird": "^3.4.7",
     "debug": "^2.6.1",
