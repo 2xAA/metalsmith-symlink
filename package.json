@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-symlink",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Symlink plugin for MetalSmith",
   "main": "index.js",
   "scripts": {
