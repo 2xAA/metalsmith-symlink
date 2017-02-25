@@ -11,7 +11,7 @@ npm install metalsmith-symlink
 ## Getting Started
 
 ```js
-var asset = require('metalsmith-symlink');
+var msSymlink = require('metalsmith-symlink');
 var Metalsmith = require('metalsmith');
 
 Metalsmith
